@@ -1,0 +1,149 @@
+@media (max-width: 1025px) {
+  .header .container {
+    padding: 0 30px;
+  }
+  .project-plan2 {
+    padding: 44px 0 200px;
+  }
+
+  .project-text {
+    width: 251px;
+    font-size: 19px;
+  }
+  .concept-text {
+    color: rgb(77, 80, 83);
+    font-family: "Jost-400", sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 150%;
+    letter-spacing: 1%;
+    text-align: left;
+    width: 336px;
+  }
+}
+
+@media (max-width: 900px) {
+  .main .container {
+    width: 375px;
+    height: 173px;
+  }
+  .content-wrapper1 {
+    margin-top: 26px;
+  }
+  .work-section .container {
+    padding: 46px 0 38px;
+  }
+  .project-plan {
+    padding-top: 23px;
+  }
+  .project-plan2 {
+    padding: 44px 0 96px;
+  }
+  .project-text {
+    width: 272px;
+    font-size: 18px;
+  }
+  .concept-text {
+    letter-spacing: 1%;
+    width: 281px;
+  }
+  .work-text {
+    letter-spacing: 1%;
+    width: 526px;
+  }
+  .concept-title {
+    font-size: 31px;
+  }
+  .bag-content {
+    padding: 13px 0;
+  }
+  .concept-right {
+    margin-left: 25px;
+  }
+  .concept .img-block img {
+    width: 326px;
+    height: 450px;
+  }
+}
+
+@media (max-width: 794px) {
+  .content-wrapper {
+    display: block;
+  }
+  .content-wrapper1 {
+    display: block;
+  }
+  .project-text {
+    width: 348px;
+    font-size: 26px;
+    margin: 41px auto;
+  }
+
+  .mini-content {
+    text-align: center;
+    margin-top: 64px;
+  }
+
+  .concept-text {
+    width: 207px;
+    font-size: 19px;
+  }
+
+  .concept-title {
+    font-size: 25px;
+  }
+
+  .icon {
+    display: flex;
+    margin: 90px 0 63px;
+    gap: 40px;
+  }
+}
+
+@media (max-width: 650px) {
+}
+
+@media (max-width: 580px) {
+  .main .container {
+    width: 279px;
+    height: 89px;
+  }
+  .main-title {
+    font-size: 35px;
+  }
+  .concept .container {
+    display: block;
+  }
+  .concept .img-block img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 70px 70px 0 0px;
+    width: 311px;
+    height: 325px;
+  }
+  .icon {
+    display: flex;
+    justify-content: center;
+    margin: 29px 0 50px;
+  }
+
+  .concept-content {
+    margin: 0 auto;
+  }
+  .concept-right {
+    margin-left: 0;
+  }
+
+  .work-text {
+    width: 349px;
+  }
+
+  .concept-title {
+    text-align: center;
+  }
+  .concept-text {
+    font-size: 20px;
+    width: 317px;
+    text-align: center;
+  }
+}
